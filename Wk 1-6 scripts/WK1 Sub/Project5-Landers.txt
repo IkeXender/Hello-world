@@ -1,0 +1,31 @@
+>>> length = float(input("Enter the length: "))
+>>> height = float(input("Enter the height: "))
+Enter the height: 7
+>>> width = float(input("Enter the width: "))
+Enter the width: 9
+>>> depth = float(input("Enter the depth: "))
+Enter the depth: 5
+>>> volume = height * width * depth
+>>> print("The volume is", volume, "cubic units")
+The volume is 315.0 cubic units
+>>> height = float(input("Enter the height: "))
+Enter the height: 4
+>>> width = float(input("Enter the width: "))
+Enter the width: 7
+>>> depth = float(input("Enter the depth: "))
+Enter the depth: 3
+>>> volume = height * width * depth
+>>> print("The volume is", volume, "cubic units")
+The volume is 84.0 cubic units
+>>>
+>>>
+>>> height = float(input("Enter the height: "))
+Enter the height: 6
+>>> width = float(input("Enter the width: "))
+Enter the width: 6
+>>> depth = float(input("Enter the depth: "))
+Enter the depth: 6
+>>> volume = height * width * depth
+>>> print("The volume is", volume, "cubic units")
+The volume is 216.0 cubic units
+>>>
