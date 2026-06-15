@@ -1,2 +1,3 @@
 # Hello-world
 Another Repository
+Hello, I am Isaac. I go by various nicknames, Ike, Ise, and Hurricane are a few of them. I am a heavy visual learner, gamer, traveler, and music lover. Some of my past hobbies I am looking forward to getting back into are drawing and long-distance running. To expand on two traits of mine are visual learning and long-distance running. Thanks to being able to learn super quickly with visuals, I am able to quickly adapt to the tasks and become one of my best ways of learning and picking things up. Also, thanks to my dedication to being a long-distance runner, I was allowed to run for our country during a trip to Australia while I was in high school. 
